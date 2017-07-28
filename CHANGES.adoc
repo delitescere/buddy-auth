@@ -1,5 +1,13 @@
 = Changelog
 
+== Version 1.5.0
+
+Date: 2017-07-28
+
+- Update to use Clojure 1.9.0-alpha17
+- Update buddy-sign to 1.6.0
+- Update cuerdas to 2.0.2
+
 == Version 1.4.1
 
 Date: 2017-01-29
